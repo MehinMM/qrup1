@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+.app{
+    background-color: yellowgreen;
+    height: 700px;
+}
